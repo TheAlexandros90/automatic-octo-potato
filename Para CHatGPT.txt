@@ -1,0 +1,5 @@
+Mas que eliminar country, quizás debería meter una  línea de códio que eliminase todas aquellas variables que pudiern evitar el correcto funcionamiento del modelo
+
+Lo que busco aquí es ajustal modelo hasta que no queden variables cpn p-valor mayor que 0,05, no se si se puede hacer de manera automática o ha de ser de una manera manual ejecutando el código.
+
+Luego quiero crear variables_mantener y meten en ella las variables de data que quiero incluir a pser de no ser relevantes en el análisis ya que son aquellas sobre las que puedo influir. Dame su código
